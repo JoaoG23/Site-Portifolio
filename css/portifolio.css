@@ -248,6 +248,11 @@ textarea{
     }
     
 }
+
+
+
+
+
 @media screen and (max-width:450px) {
     body{
         width: auto;
@@ -285,14 +290,62 @@ textarea{
         border-radius: 15px;
         box-shadow: 2px 2px 5px rgb(206, 206, 206);
     }
-    
+
     /* ---------------Website--------------- */
+
+    .box_gif{
+        padding: 0%;
+        width: auto;
+        height: auto;
+        display: block;
+        margin: 30px;
+
+    
+    }
+    .box_gif2{
+        padding: 0%;
+        width: auto;
+        height: auto;
+        margin: 30px;
+        display: block;
+        top:0px;
+        left: 0%;
+    }
+    .gif_works{
+        width:200px;
+        height:200px;
+    }
+    .works{
+
+        background-color: white;
+        width: auto;
+        padding-left: 15%;
+        padding-top: 5%;
+        padding-bottom: 1%;
+    }
+    .box_in{
+    
+        background-color: rgb(27, 27, 27);
+        width: auto;
+        height: 900px;
+    }
     .inside_box{
+    
         background-color: rgb(56, 56, 56);
-        width: 95%;
-        height: 95%;
+        width: 90%;
+        padding: 3%;
         margin: auto;
     }
+
+    }
+    figcaption{
+        width: 200px;
+        height: 200px;
+        font-size: 15px;
+        color:blanchedalmond;
+    
+    }
+    
     /*------------Subrodapé-----------*/
 
     .form{
