@@ -312,8 +312,8 @@ textarea{
         left: 0%;
     }
     .gif_works{
-        width:200px;
-        height:200px;
+        width:14rem;
+        height:12rem;
     }
     .works{
 
@@ -336,15 +336,22 @@ textarea{
         padding: 3%;
         margin: auto;
     }
-
-    }
     figcaption{
-        width: 200px;
-        height: 200px;
+        background-color: rgb(22, 37, 3);
+        position: absolute;
+        width: 14rem;
+        height: 12rem;
+        opacity: 0;
+        box-sizing: border-box;
+        padding: 3%;
+        top: 0px;
+    
+        /* font */
         font-size: 15px;
         color:blanchedalmond;
     
     }
+
     
     /*------------Subrodapé-----------*/
 
